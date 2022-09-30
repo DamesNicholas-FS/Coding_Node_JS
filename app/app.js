@@ -1,5 +1,5 @@
-import router from '../router/router';
 const express = require("express");
+const router =require('../router/router.js')
 const app = express();
 
 //middleware
