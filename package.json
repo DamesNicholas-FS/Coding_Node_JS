@@ -1,0 +1,24 @@
+{
+  "name": "coding_node_js",
+  "version": "1.0.0",
+  "description": "Node JS Coding",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "NodeJS",
+    "Assignment"
+  ],
+  "author": "Nicholas Dames",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^29.1.1",
+    "nodemon": "^2.0.20"
+  }
+}
